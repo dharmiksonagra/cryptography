@@ -1,6 +1,6 @@
 🔐 Cryptonix: Advanced Encryption Suite v2.5
 
-Cryptonix is a professional-grade cryptographic utility designed for secure text and file transformation. It combines modern asymmetric (RSA) and symmetric (AES/DES) algorithms with a high-performance terminal user interface featuring a "Cybersecurity" aesthetic.
+This project focuses on understanding the basic concepts of cryptography, different types of cryptographic techniques, and their practical applications in securing digital data.
 
 🚀 Key Features
 
@@ -21,8 +21,6 @@ Password Enforcement: Strict minimum 8-character requirement for all symmetric k
 Key Derivation: Uses PBKDF2HMAC with SHA256 and 100,000 iterations for maximum security.
 
 Professional UI:
-
-High-contrast Electric Cyan and Amber terminal design.
 
 Dynamic Bold Red Alerts for security violations and system lockouts.
 
